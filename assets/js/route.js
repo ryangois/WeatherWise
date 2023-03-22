@@ -1,6 +1,6 @@
 'use strict';
 
-import { updateWeather, error404 } from "./app"; //.js is no longer necessary????
+import { updateWeather, error404 } from "./app.js"; //.js is no longer necessary????
 const defaultLocation = "#/weather?lat=51.5073219&lon=-0.1276474" //London
 
 const currentLocation = function () {
