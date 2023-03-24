@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600&display=swap');
 
 :root {
-    --primary: #B5A1E5;
+    --primary: #78bcfc;
     --on-primary: #100E17;
     --background: #131214;
     --on-background: #EAE6F2;
@@ -328,7 +328,7 @@ body {
 }
 
 .logo img {
-    width: 150px;
+    width: 200px;
 }
 
 .header .container,
