@@ -648,7 +648,7 @@ section:not(:last-child) {
 }
 
 .highlight-card.two .card-item {
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 8px 16px;
 }
