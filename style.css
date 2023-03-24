@@ -317,6 +317,7 @@ body {
     0% {
         opacity: 0;
     }
+
     100% {
         opacity: 1;
     }
@@ -710,11 +711,20 @@ section:not(:last-child) {
     display: none;
 }
 
+.footer a {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.github {
+    width: 32px;
+}
+
 .fade-in .footer {
     display: flex;
 }
 
-.footer .body-3:last-child {
+.footer .body-3 {
     gap: 6px;
 }
 
