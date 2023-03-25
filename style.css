@@ -770,7 +770,15 @@ section:not(:last-child) {
 }
 
 /* Media Queries */
+@media (max-width:378px){
+    .highlight-card.two .card-item {
+        gap: 8px 30px;
+    }
 
+    .highlight-card.two .label-1 {
+        text-align: center;
+    }
+}
 /* Responsive for > 768px screen */
 @media (min-width:728px) {
 
