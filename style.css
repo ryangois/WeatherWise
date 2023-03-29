@@ -329,7 +329,7 @@ body {
 }
 
 .logo img {
-    width: 200px;
+    width: auto;
 }
 
 .header .container,
@@ -924,10 +924,6 @@ section:not(:last-child) {
 
     .header .icon-btn {
         display: none;
-    }
-
-    .logo img {
-        width: 200px;
     }
 
     .header {
