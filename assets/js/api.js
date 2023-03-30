@@ -1,6 +1,6 @@
 'use strict';
 
-const api_key = `${secrets.API_KEY}`; // API Key here
+const api_key = process.env.API_KEY; // API Key here
 
 /** 
 *Fetch data from server
