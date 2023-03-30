@@ -1,7 +1,6 @@
 'use strict';
 
-const api_key = ${{secrets.API_KEY}}; // API Key here
-console.log(api_key);
+const api_key = ${secrets.API_KEY}; // API Key here
 
 /** 
 *Fetch data from server
