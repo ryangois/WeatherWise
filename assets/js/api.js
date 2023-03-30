@@ -1,7 +1,6 @@
 'use strict';
 
-const api_key = process.env.API_KEY; // API Key here
-console.log(`My secret is ${api_key}`)
+const api_key = "db74a4853a5208983eb122e64b7ad7f4";
 
 /** 
 *Fetch data from server
