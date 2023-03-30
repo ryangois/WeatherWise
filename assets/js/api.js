@@ -1,6 +1,7 @@
 'use strict';
 
 const api_key = process.env.API_KEY; // API Key here
+console.log(`My secret is ${api_key}`)
 
 /** 
 *Fetch data from server
