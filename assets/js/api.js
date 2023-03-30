@@ -1,6 +1,6 @@
 'use strict';
 
-const api_key = "db74a4853a5208983eb122e64b7ad7f4";
+const api_key = "${secrets.API_KEY}"; // API Key here
 
 /** 
 *Fetch data from server
