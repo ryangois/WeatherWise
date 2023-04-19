@@ -382,9 +382,8 @@ export const updateWeather = function(lat, lon) {
 
             // 5 day Forecast
             forecastSection.innerHTML = `
-                <h2 class="title-2" id="forecast-label">5 Days Forecast</h2>
-
                 <div class="card card-lg forecast-card">
+                <h2 class="title-2" id="forecast-label">5 Days Forecast</h2>
                     <ul data-forecast-list></ul>
                 </div>
             `;
