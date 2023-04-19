@@ -328,8 +328,18 @@ body {
     display: none;
 }
 
+.logo {
+    display: flex;
+    align-items: flex-end;
+}
+
 .logo img {
-    width: auto;
+    width: 50px;
+    height: 50px;
+}
+
+.logo h3 {
+    font-size: 30px;
 }
 
 .header .container,
@@ -565,6 +575,11 @@ section:not(:last-child) {
 .forecast-card .card-item>.label-1 {
     width: 100%;
     text-align: right;
+}
+
+#forecast-label {
+    margin-top: -5px;
+    margin-block-end: 12px;
 }
 
 .highlights .m-icon {
