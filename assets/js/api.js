@@ -1,6 +1,6 @@
 'use strict';
 
-const api_key = "";
+const api_key = API_KEY;
 
 /** 
 *Fetch data from server
