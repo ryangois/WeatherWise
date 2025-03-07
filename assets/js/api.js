@@ -1,6 +1,6 @@
 'use strict';
 
-const api_key = process.env.API_KEY;
+const api_key = "5cc8f44cdb55ece0569e71aede8010f9";
 
 /** 
 *Fetch data from server
