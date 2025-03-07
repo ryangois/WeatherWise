@@ -1,6 +1,6 @@
 'use strict';
 
-const api_key = API_KEY_vercel;
+const api_key = process.env.API_KEY;
 
 /** 
 *Fetch data from server
