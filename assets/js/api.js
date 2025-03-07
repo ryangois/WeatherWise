@@ -1,6 +1,6 @@
 'use strict';
 
-const api_key = API_KEY;
+const api_key = API_KEY_vercel;
 
 /** 
 *Fetch data from server
